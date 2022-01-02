@@ -25,3 +25,5 @@ git push origin --delete tag ----> remote
 ```
 git tag -d tag -----> locally
 ```
+
+Thanks ![alt text](images/Blue.png)
